@@ -1,10 +1,10 @@
-# Hi [![github_octocat](https://cdn3.emoji.gg/emojis/5643_github_octocat.png)](https://emoji.gg/emoji/5643_github_octocat) users ;-), I'm Honoris
+# Hi :octocat: users ;-), I'm Honoris
   
   - 🔭 I’m currently a student in computer science and at the same time I work as a Software Developer in Toulouse.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 I like to discuss about  
+  - 🌱 I plan to learn Rust and spanish
+  - 💬 I like to discuss about low level computer system calls
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: ^ + c / ^ + v (I use this a lot)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhonorisg&layout=compact&theme=tokyonight)
 
