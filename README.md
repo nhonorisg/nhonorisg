@@ -1,5 +1,4 @@
-# Hi          users ;-), I'm Honoris
-    :octocat: 
+# Hi :octocat: users ;-), I'm Honoris 
   
   - 🔭 I’m currently a student in computer science and at the same time I work as a Software Developer in Toulouse.
   - 🌱 I plan to learn Rust and spanish
