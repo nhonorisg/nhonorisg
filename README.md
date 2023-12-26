@@ -1,10 +1,10 @@
 # Hi :octocat: users ;-), I'm Honoris 
   
-  - I’m currently a student in computer science and at the same time I work as a Software Developer in Toulouse.
-  - I plan to learn Rust and spanish
-  - I like to discuss about low level computer system calls
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: ^ + c / ^ + v (I use this a lot)
+  - 🎓 I’m currently a student in computer science and at the same time I work as a Software Developer in Toulouse.
+  - ⏳ I plan to learn Rust and spanish.
+  - 🪐 I like to discuss about low level computer system calls.
+  - 😄 Pronouns: He / Him.
+  - ⚡ Fun fact: ^ + c / ^ + v (I use this a lot).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhonorisg&layout=compact&theme=tokyonight)
 
