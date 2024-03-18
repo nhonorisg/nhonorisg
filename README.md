@@ -4,7 +4,7 @@
   - ⏳ I plan to learn Rust and spanish.
   - 🪐 I like to discuss about low level computer system calls.
   - 😄 Pronouns: He / Him.
-  - ⚡ Fun fact: ^ + c / ^ + v (One of my favorite snipet 😆).
+  - ⚡ Fun fact: the terminal is my file explorer ;-).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhonorisg&layout=compact&theme=tokyonight)
 
